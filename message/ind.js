@@ -1,15 +1,15 @@
 const iklan1 = () => {
-return `Dapatkan Semua Kebutuhan Fashion, Gadget, Makeup, Elektronik, Travel, Hanya di Lazada. Belanja Produk Favoritmu & Penuhi Panggilan Hatimu! Jutaan Promo Setiap Hari. Cek Sekarang. Jutaan Promo Setiap Hari. Jangan Lupa Cek LazMall. Produk Dijamin Asli.`
+return `Follow IG Owner : www.instagram.com/alwan.karsa`
 }
 exports.iklan1 = iklan1
 
 const iklan2 = () => {
-return `Jelajahi pusat perbelanjaan mobile, Shopee! Jual Beli dalam 30 detik. Kapanpun, Dimanapun.`
+return `Follow Tiktok Anime Karsa : www.tiktok.com/@animekarsa`
 }
 exports.iklan2 = iklan2
 
 const iklan3 = () => {
-	return `Semua Ada dan Bisa di Tokopedia. Dari Kebutuhan Harian Sampai Bayar Tagihan. Lebih Hemat! Belanja Berbagai Produk Terkini, Bisa Bebas Ongkir Ke Seluruh Indonesia. Cek...`
+	return `Follow Tiktok Dan Instagram Ownerya!`
 }
 exports.iklan3 = iklan3
 
